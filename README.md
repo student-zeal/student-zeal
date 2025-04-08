@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Shruti 👋
 
-<!--
-**student-zeal/student-zeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently an IT engineering student with a passion for Data Science and Development.  
+💻 I enjoy exploring Python, solving DSA problems, and building cool projects.  
+🎸 Recently started learning **guitar**—super excited!  
+📚 Currently working through Striver’s DSA series and IIT Data Science courses.  
+🚀 Looking forward to internships and research work this year.
 
-Here are some ideas to get you started:
+ 🧰 Tools & Tech I Use
+- Languages: Python, Java (Basics)
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib
+- Tools: Jupyter Notebook, Git, GitHub, VS Code
+- Platforms: Kaggle, GitHub, VirtualBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📂 My Projects
+Check out my [Data Science Repository](https://github.com/student-zeal/data-science) –  
+Beginner notebooks on NumPy, Pandas, Seaborn & real data analysis like Zomato dataset.
+
+ 💬 Let's Connect!
+Feel free to explore my work and reach out 😊  
+🌟 GitHub: [@student-zeal](https://github.com/student-zeal)
+
+
